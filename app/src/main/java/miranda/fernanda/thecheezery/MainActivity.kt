@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val button:Button = findViewById(R.id.b) as Button
+        val button:Button = findViewById(R.id.button_first) as Button
     }
 }
